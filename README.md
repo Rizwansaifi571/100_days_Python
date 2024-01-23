@@ -22,7 +22,7 @@ Community Corner: Engage with the community in the Issues section. Share your so
 
 # Ready to Dive In?
 1. Fork the Repository:
-   -> git clone https://github.com/your-username/100_days_Python.git
+   -> git clone https://github.com/rizwasaifi571/100_days_Python.git
 
 2. Daily Python Adventures Await:
     * Start with Day 1 and progress through each challenge.
